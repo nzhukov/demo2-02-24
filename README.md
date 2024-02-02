@@ -10,7 +10,7 @@
    - GNU General Public License v3.0
    - MIT LIcense
    - Creative Commons Zero v1.0 Universal
-2. Изучить шпаргалку по работе с Markdown.
+2. Изучить шпаргалку по работе с Markdown (https://www.markdownguide.org/cheat-sheet/).
 
 ## Практические задания
 0. Зарегистрироваться в GitHub
